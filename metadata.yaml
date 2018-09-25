@@ -1,5 +1,8 @@
 _repo: Moliere-OEuvres-completes-de-J-B-Poquelin-Tome-4_57270
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57270-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Chasles, Philarète
@@ -22,6 +25,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57270#Moliere-OEuvres-completes-de-J-B-Poquelin-Tome-4
 gutenberg_bookshelf:
 - FR Théâtre
 - FR Nouveautés
