@@ -1,0 +1,41 @@
+_repo: Moliere-OEuvres-completes-de-J-B-Poquelin-Tome-4_57270
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Chasles, Philarète
+    alias: Chasles, Philarete
+    birthdate: 1798
+    deathdate: 1873
+    gutenberg_agent_id: '40214'
+    url: http://www.gutenberg.org/2009/agents/40214
+  - agent_name: Molière
+    aliases:
+    - Poquelin, Jean-Baptiste
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    - Moliere
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- FR Nouveautés
+gutenberg_issued: '2018-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57270'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Molière
+
+  OEuvres complètes de J. -B. Poquelin, Tome 4'
+url: http://www.gutenberg.org/ebooks/57270
